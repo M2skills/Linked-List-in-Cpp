@@ -1,0 +1,48 @@
+# Linked List in C++
+
+Linked List implementation in C++
+
+LinkedList.cpp is a simple implementation of Linked List in C++. I have refered various resources to make the different methods of the Linked List.
+Following are the methods implemented
+
+1. isEmpty() : method returns true if the list is empty
+
+2. getHead() : returns head node
+
+3. addToStart(): method to add a node at starting
+
+4. addToEnd() : method to add a node at the end
+
+5. display() : method to display all the elements of the Linked List
+
+6. length() : method that returns the length of the Linked List
+
+7. insert() : method to insert element at a given position in the Linked List
+
+8. deletePosition() : method to delete a element at a given position
+
+9. deleteData() : method to delete a data element
+
+10. findMin() : method that returns the max element
+
+11. findMax() : method that returns the min element
+
+12. countOccurences() : method that returns the occurences of an element
+
+13. pop() : pop method removes last element of the Linked List
+
+14. tostring() : method that returns a string of all elements of the String
+
+15. copy() :  method that returns the copy of the list
+
+16. clear() : method that clears the Linked List
+
+17. reverse() : method that returns reversed linked list
+
+18. recursiveReverse() : method that recursively reverses the Linked List
+
+19. indexOf() : method that returns index of a particular element
+
+20. atIndex() : method that returns element at a particular position
+
+If you think you have a better implementation for any method or if you have any doubts or if you want some method implementations please feel free to comment.
